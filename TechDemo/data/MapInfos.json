@@ -62,5 +62,14 @@
     "parentId": 1,
     "scrollX": 0,
     "scrollY": 0
+  },
+  {
+    "id": 8,
+    "expanded": true,
+    "name": "Sofhia's Save Room",
+    "order": 8,
+    "parentId": 1,
+    "scrollX": 0,
+    "scrollY": 0
   }
 ]
