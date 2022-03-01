@@ -309,6 +309,22 @@
     ]
    },
    {
+    "code": 231,
+    "indent": 3,
+    "parameters": [
+     2,
+     "Dialogue_resting face",
+     0,
+     0,
+     -20,
+     330,
+     25,
+     25,
+     255,
+     0
+    ]
+   },
+   {
     "code": 101,
     "indent": 3,
     "parameters": [
@@ -322,7 +338,7 @@
     "code": 401,
     "indent": 3,
     "parameters": [
-     "\\px[350] I should probably go investigate the front gate."
+     "\\px[450] I should probably go investigate the front gate."
     ]
    },
    {
@@ -330,6 +346,13 @@
     "indent": 3,
     "parameters": [
      1
+    ]
+   },
+   {
+    "code": 235,
+    "indent": 3,
+    "parameters": [
+     2
     ]
    },
    {

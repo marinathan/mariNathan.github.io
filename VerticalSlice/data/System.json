@@ -323,9 +323,9 @@
    "volume": 90
   }
  ],
- "startMapId": 7,
- "startX": 18,
- "startY": 6,
+ "startMapId": 4,
+ "startX": 11,
+ "startY": 17,
  "switches": [
   "",
   "Move left",
@@ -386,7 +386,7 @@
   "Finish tut",
   "Check HP",
   "Reset Base",
-  "",
+  "monster check",
   "",
   "monster shows",
   "monster starts moving",
