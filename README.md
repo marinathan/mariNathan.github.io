@@ -22,7 +22,6 @@
 <details><summary>Game Instructions</summary>
 <p>
 
-##### Controls: 
       |    Control    |          Key          |
       |     :---:     |         :---:         |
       |   Movement    | WASD/Mouse/Arrow Keys |
