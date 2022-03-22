@@ -23,11 +23,10 @@
 <p>
 
 ##### Controls: 
-    
-      Movement: WASD/Mouse/Arrow Keys
-
-      Interact: Enter, Space
-
-      Time travel: F
+      |    Control    |          Key          |
+      |     :---:     |         :---:         |
+      |   Movement    | WASD/Mouse/Arrow Keys |
+      |   Interact    |      Enter, Space     |
+      |  Time Travel  |           F           |
 </p>
 </details>
