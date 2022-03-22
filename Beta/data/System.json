@@ -324,7 +324,7 @@ true
 }
 ],
 "startMapId": 4,
-"startX": 11,
+"startX": 10,
 "startY": 18,
 "switches": [
 "",
@@ -415,7 +415,7 @@ true
 "lvl3 white",
 "lvl3 orange",
 "lvl3 spikes",
-"",
+"Memory 0",
 "Memory 1",
 "Memory 2",
 "Memory 3",
