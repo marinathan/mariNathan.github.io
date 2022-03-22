@@ -1,4 +1,4 @@
-<marquee>Mental Wealth Games</marquee>
+# <marquee>Mental Wealth Games</marquee>
 
 ## Chronoboros
 
