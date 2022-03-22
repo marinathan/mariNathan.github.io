@@ -19,11 +19,19 @@
 
 - [ ] [Game Beta Survey](https://forms.gle/DcRcu8hny6ZaGoTRA)
 
-## Game Instructions:
-```
-Movement: WASD/Mouse/Arrow Keys
+## <details><summary>Game Instructions:</summary>
+<p>
+  
+    ```ruby
+      ```
+        Movement: WASD/Mouse/Arrow Keys
 
-Interact: Enter
+        Interact: Enter
 
-Time travel: F
+        Time travel: F
 ```
+
+    ```
+
+</p>
+</details>
