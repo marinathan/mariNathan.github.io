@@ -26,7 +26,7 @@
     
       Movement: WASD/Mouse/Arrow Keys
 
-      Interact: Enter
+      Interact: Enter, Space
 
       Time travel: F
 </p>
