@@ -1,24 +1,35 @@
 mariNathan.github.io
-\n
-\nMental Wealth Games
-\n
-\nChronoboros
-\n
-\nExecutive Producer: Marcus Der
-\n
-\n\nTeam Members:
-\nNathan Bantug
-\nHannah Zamora
-\nStacy Ma
-\nNoah Batiuk
-\nAbrar Zahin
-\nSofhia Sadiua
-\n
-\nGame Instructions:
-\nMovement: WASD/Mouse/Arrow Keys
-\nInteract: Enter
-\nTime travel: F
-\n
-\nGame Beta Survey: https://forms.gle/DcRcu8hny6ZaGoTRA
-\n
-\nGame Beta Link: https://marinathan.github.io/Beta/index
+
+Mental Wealth Games
+
+Chronoboros
+
+Executive Producer: Marcus Der
+
+Team Members:
+
+Nathan Bantug
+
+Hannah Zamora
+
+Stacy Ma
+
+Noah Batiuk
+
+Abrar Zahin
+
+Sofhia Sadiua
+
+
+Game Instructions:
+
+Movement: WASD/Mouse/Arrow Keys
+
+Interact: Enter
+
+Time travel: F
+
+
+Game Beta Survey: https://forms.gle/DcRcu8hny6ZaGoTRA
+
+Game Beta Link: https://marinathan.github.io/Beta/index
