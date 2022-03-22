@@ -4,26 +4,15 @@
 
 **Production Team:**
 
-### Executive Producer
-
-Marcus Der
-
-### Programmers
-
-Nathan Bantug
-
-Hannah Zamora
-
-Noah Batiuk
-
-### Artist
-Stacy Ma
-
-### Audio
-Abrar Zahin
-
-### Writer
-Sofhia Sadiua
+|     Role      |     Name      |
+| ------------- | ------------- |
+| Exec Producer |   Marcus Der  |
+|  Programmer   | Nathan Bantug |
+|  Programmer   |  Noah Batiuk  |
+|  Programmer   | Hannah Zamora |
+|    Artist     |   Stacy Ma    |
+|    Audio      |  Abrar Zahin  |
+|    Writer     | Sofhia Sadiua |
 
 ## To Do List:
 - [ ] [Game Beta Link](https://marinathan.github.io/Beta/index)
