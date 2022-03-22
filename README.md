@@ -20,3 +20,5 @@ Interact: Enter
 Time travel: F
 
 Game Beta Survey: https://forms.gle/DcRcu8hny6ZaGoTRA
+
+Game Beta Link: https://marinathan.github.io/Beta/index
