@@ -324,8 +324,8 @@ true
 }
 ],
 "startMapId": 26,
-"startX": 4,
-"startY": 17,
+"startX": 9,
+"startY": 13,
 "switches": [
 "",
 "Move left",
@@ -606,7 +606,7 @@ null,
 "title1Name": "DemonCastle",
 "title2Name": "",
 "titleBgm": {
-"name": "mainTheme",
+"name": "looking back on time",
 "pan": 0,
 "pitch": 100,
 "volume": 90
