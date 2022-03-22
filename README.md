@@ -2,9 +2,11 @@
 
 ## Chronoboros
 
-Executive Producer: Marcus Der
+**Production Team:**
 
-Team Members:
+### Executive Producer
+
+Marcus Der
 
 ### Programmers
 
