@@ -1,6 +1,6 @@
 ![This is an image](https://cdn.discordapp.com/attachments/934209452872192040/955754571718860870/Mental_Wealth.png)
 
-<marquee>Chronoboros</marquee>
+# <marquee>Chronoboros</marquee>
 
 ## **Production Team:**
 
