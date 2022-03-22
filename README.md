@@ -5,7 +5,7 @@
 **Production Team:**
 
 |     Role      |     Name      |
-| ------------- | ------------- |
+|     :---:     |     :---:     |
 | Exec Producer |   Marcus Der  |
 |  Programmer   | Nathan Bantug |
 |  Programmer   |  Noah Batiuk  |
