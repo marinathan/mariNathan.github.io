@@ -19,13 +19,10 @@
 
 - [ ] [Game Beta Survey](https://forms.gle/DcRcu8hny6ZaGoTRA)
 
-<details><summary>Game Instructions</summary>
-<p>
+## Game Instructions
 
 |    Controls   |          Key          |
 |     :---:     |         :---:         |
 |   Movement    | WASD/Mouse/Arrow Keys |
 |   Interact    |      Enter, Space     |
 |  Time Travel  |           F           |
-</p>
-</details>
