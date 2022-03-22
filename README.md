@@ -23,12 +23,11 @@
 <p>
 
 #### Controls: 
-    ```ruby
+    
       Movement: WASD/Mouse/Arrow Keys
 
       Interact: Enter
 
       Time travel: F
-    ```
 </p>
 </details>
