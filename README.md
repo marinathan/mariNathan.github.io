@@ -19,13 +19,17 @@
 
 - [ ] [Game Beta Survey](https://forms.gle/DcRcu8hny6ZaGoTRA)
 
-<details><summary>CLICK ME</summary>
+##<details><summary>Game Instructions</summary>
 <p>
 
-#### We can hide anything, even code!
+#### Controls: 
 
     ```ruby
-      puts "Hello World"
+      Movement: WASD/Mouse/Arrow Keys
+
+        Interact: Enter
+
+        Time travel: F
     ```
 
 </p>
