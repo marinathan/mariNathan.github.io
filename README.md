@@ -22,10 +22,10 @@
 <details><summary>Game Instructions</summary>
 <p>
 
-      |    Control    |          Key          |
-      |     :---:     |         :---:         |
-      |   Movement    | WASD/Mouse/Arrow Keys |
-      |   Interact    |      Enter, Space     |
-      |  Time Travel  |           F           |
+|    Controls   |          Key          |
+|     :---:     |         :---:         |
+|   Movement    | WASD/Mouse/Arrow Keys |
+|   Interact    |      Enter, Space     |
+|  Time Travel  |           F           |
 </p>
 </details>
