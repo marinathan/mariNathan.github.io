@@ -27,13 +27,13 @@ Sofhia Sadiua
 
 
 ## Game Instructions:
-
+```
 Movement: WASD/Mouse/Arrow Keys
 
 Interact: Enter
 
 Time travel: F
-
+```
 
 - [ ] [Game Beta Survey](https://forms.gle/DcRcu8hny6ZaGoTRA)
 
