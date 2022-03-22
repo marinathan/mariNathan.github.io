@@ -1,12 +1,12 @@
 <marquee>Mental Wealth Games</marquee>
 
-##Chronoboros
+## Chronoboros
 
 Executive Producer: Marcus Der
 
 Team Members:
 
-###Programmers
+### Programmers
 
 Nathan Bantug
 
@@ -14,17 +14,17 @@ Hannah Zamora
 
 Noah Batiuk
 
-###Artist
+### Artist
 Stacy Ma
 
-###Audio
+### Audio
 Abrar Zahin
 
-###Writer
+### Writer
 Sofhia Sadiua
 
 
-##Game Instructions:
+## Game Instructions:
 
 Movement: WASD/Mouse/Arrow Keys
 
