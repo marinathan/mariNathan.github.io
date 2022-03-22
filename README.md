@@ -19,10 +19,10 @@
 
 - [ ] [Game Beta Survey](https://forms.gle/DcRcu8hny6ZaGoTRA)
 
-## <details><summary>Game Instructions</summary>
+<details><summary>Game Instructions</summary>
 <p>
 
-#### Controls: 
+##### Controls: 
     
       Movement: WASD/Mouse/Arrow Keys
 
