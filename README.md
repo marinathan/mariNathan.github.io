@@ -16,6 +16,7 @@
 
 ## To Do List:
 - [ ] [Game Gold Link](https://marinathan.github.io/Gold/index)
+
 - [ ] [Game Beta Link](https://marinathan.github.io/Beta/index)
 
 - [ ] [Game Beta Survey](https://forms.gle/DcRcu8hny6ZaGoTRA)
