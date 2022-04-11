@@ -323,9 +323,9 @@ true
 "volume": 90
 }
 ],
-"startMapId": 26,
-"startX": 4,
-"startY": 14,
+"startMapId": 4,
+"startX": 11,
+"startY": 18,
 "switches": [
 "",
 "Move left",
