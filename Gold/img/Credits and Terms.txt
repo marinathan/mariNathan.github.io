@@ -1,0 +1,19 @@
+================================================================
+Zael's Graphics Set for mjshi's Chain Command Mini-Game
+================================================================
+A set of graphics for mjshi's Chain Command Mini-Game.
+
+Artists
+Zael - Bars, Buttons, All, Backgrounds
+Ails - Buttons, Cursor
+Ravenmore - Success Background, Failure Background
+
+This set of Art is completely free for commercial or
+non-commercial usage provided you Credit the 3 people
+listed above as well as mjshi (who made the plugin that
+they are made for and who's plugin you're probably using
+if you are using this set lol).
+
+================================================================
+ENJOY!
+================================================================
