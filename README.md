@@ -15,6 +15,7 @@
 |    Writer     | Sofhia Sadiua |
 
 ## To Do List:
+- [ ] [Game Gold Link](https://marinathan.github.io/Gold/index)
 - [ ] [Game Beta Link](https://marinathan.github.io/Beta/index)
 
 - [ ] [Game Beta Survey](https://forms.gle/DcRcu8hny6ZaGoTRA)
@@ -23,6 +24,6 @@
 
 |    Controls   |          Key          |
 |     :---:     |         :---:         |
-|   Movement    | WASD/Mouse/Arrow Keys |
+|   Movement    |     WASD/Arrow Keys   |
 |   Interact    |      Enter, Space     |
 |  Time Travel  |           F           |
