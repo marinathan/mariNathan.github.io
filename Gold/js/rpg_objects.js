@@ -6662,6 +6662,12 @@ Game_CharacterBase.prototype.setImage = function(characterName, characterIndex) 
     this._tileId = 0;
     this._characterName = characterName;
     this._characterIndex = characterIndex;
+    if(AudioManager._spooky) {
+        if(characterName !== "ActorKou" && characterName !== "") {
+            this._characterName = "Monster_betaetemplate";
+            this._characterIndex = 0;
+        }
+    }
     this._isObjectCharacter = ImageManager.isObjectCharacter(characterName);
 };
 

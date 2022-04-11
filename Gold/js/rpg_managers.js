@@ -1072,6 +1072,9 @@ ImageManager.requestNormalBitmap = function(path, hue){
     var bitmap = this._imageCache.get(key);
     if(!bitmap){
         bitmap = Bitmap.request(path);
+        if(AudioManager._spooky) {
+        bitmap = Bitmap.request("img/characters/ActorMonster.png");
+        }
         bitmap.addLoadListener(function(){
             bitmap.rotateHue(hue);
         });
@@ -1116,6 +1119,7 @@ AudioManager._staticBuffers  = [];
 AudioManager._replayFadeTime = 0.5;
 AudioManager._path           = 'audio/';
 AudioManager._blobUrl        = null;
+AudioManager._spooky         = false;
 
 Object.defineProperty(AudioManager, 'masterVolume', {
     get: function() {
@@ -1173,6 +1177,10 @@ Object.defineProperty(AudioManager, 'seVolume', {
 });
 
 AudioManager.playBgm = function(bgm, pos) {
+    if(this._spooky) {
+        bgm.name = "looking-back-on-time-spoopy";
+        
+      }
     if (this.isCurrentBgm(bgm)) {
         this.updateBgmParameters(bgm);
     } else {
@@ -1262,6 +1270,10 @@ AudioManager.fadeInBgm = function(duration) {
 };
 
 AudioManager.playBgs = function(bgs, pos) {
+    if(this._spooky) {
+        bgs.name = "looking-back-on-time-spoopy";
+        
+      }
     if (this.isCurrentBgs(bgs)) {
         this.updateBgsParameters(bgs);
     } else {
@@ -1362,6 +1374,10 @@ AudioManager.stopMe = function() {
 };
 
 AudioManager.playSe = function(se) {
+    if(this._spooky) {
+        se.name = "laughter";
+        
+      }
     if (se.name) {
         this._seBuffers = this._seBuffers.filter(function(audio) {
             return audio.isPlaying();
