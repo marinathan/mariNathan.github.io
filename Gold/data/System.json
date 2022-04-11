@@ -323,9 +323,9 @@ true
 "volume": 90
 }
 ],
-"startMapId": 4,
-"startX": 11,
-"startY": 18,
+"startMapId": 29,
+"startX": 7,
+"startY": 9,
 "switches": [
 "",
 "Move left",
@@ -337,7 +337,7 @@ true
 "Tutorial Switch",
 "Turtorial Door",
 "tutorial door 2",
-"",
+"got time piece",
 "Present block move",
 "",
 "",
