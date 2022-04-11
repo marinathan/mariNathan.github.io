@@ -1,35 +1,28 @@
-mariNathan.github.io
+![This is an image](https://cdn.discordapp.com/attachments/934209452872192040/955754571718860870/Mental_Wealth.png)
 
-Mental Wealth Games
+# <marquee>Chronoboros</marquee>
 
-Chronoboros
+## **Production Team:**
 
-Executive Producer: Marcus Der
+|     Role      |     Name      |
+|     :---:     |     :---:     |
+| Exec Producer |   Marcus Der  |
+|  Programmer   | Nathan Bantug |
+|  Programmer   |  Noah Batiuk  |
+|  Programmer   | Hannah Zamora |
+|    Artist     |   Stacy Ma    |
+|    Audio      |  Abrar Zahin  |
+|    Writer     | Sofhia Sadiua |
 
-Team Members:
+## To Do List:
+- [ ] [Game Beta Link](https://marinathan.github.io/Beta/index)
 
-Nathan Bantug
+- [ ] [Game Beta Survey](https://forms.gle/DcRcu8hny6ZaGoTRA)
 
-Hannah Zamora
+## Game Instructions
 
-Stacy Ma
-
-Noah Batiuk
-
-Abrar Zahin
-
-Sofhia Sadiua
-
-
-Game Instructions:
-
-Movement: WASD/Mouse/Arrow Keys
-
-Interact: Enter
-
-Time travel: F
-
-
-Game Beta Survey: https://forms.gle/DcRcu8hny6ZaGoTRA
-
-Game Beta Link: https://marinathan.github.io/Beta/index
+|    Controls   |          Key          |
+|     :---:     |         :---:         |
+|   Movement    | WASD/Mouse/Arrow Keys |
+|   Interact    |      Enter, Space     |
+|  Time Travel  |           F           |
