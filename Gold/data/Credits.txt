@@ -1,32 +1,11 @@
 Text that appears outside of the block tags
 will not display in the credits scene
 
-<block: -1,-3,10,10,offbot,center>
+
+
+<block: -1,-2,10,10,offbot,center,blank_creds>
+
 CREDITS
-
-\c[2]Engine
-Degica
-RPG Maker MV
-
-\c[2]Mental Wealth Games
-
-\c[18]Executive Producer
-Marcus Der
-
-\c[31]Programming
-Hannah Zamora
-Noah Batiuk (Lead Game Designer)
-Nathan Bantug (Producer)
-
-\c[23]Writer
-Sofhia Sadiua
-
-\c[24]Artist
-Stacy Ma
-
-\c[20]Audio
-Abrar Zahin
-
 
 \c[16]Plugins
 YEP_CoreEngine
@@ -54,3 +33,34 @@ Boris will never be forgotten
 
 </block>
 
+<block: 240,-3,10,10,offbot,center,Stacy>
+
+</block>
+
+<block: 240,-3,10,10,offbot,center,Hannah>
+
+</block>
+
+<block: 240,-3,10,10,offbot,center,Sofhia>
+
+</block>
+
+<block: 240,-3,10,10,offbot,center,Abrar>
+
+</block>
+
+<block: 240,-3,10,10,offbot,center,Noah>
+
+</block>
+
+<block: 240,-3,10,10,offbot,center,Mari>
+
+</block>
+
+<block: 240,-3,10,10,offbot,center,EP>
+
+</block>
+
+<block: 240,-3,10,5,offbot,center,player>
+
+</block>
