@@ -1,35 +1,7 @@
 Text that appears outside of the block tags
 will not display in the credits scene
 
-
-
-<block: -1,-2,10,10,offbot,center,blank_creds>
-
-CREDITS
-
-\c[16]Plugins
-YEP_CoreEngine
-GALV_VisibilityRange
-HIME _CommonEventButtons
-YEP_ChasePlayer
-YEP_SaveEventLocations
-YEP_MessageCore
-YEP_RegionRestrictions
-SRD_TimerUpgrade
-OrangeMoveCharacterTo
-SRD_CameraCore
-GALV_ActionIndicators
-Smart Path (MV)
-OrangeEventHitboxes
-Olivia_HorrorEffects
-InverseMove
-MBS_MapZoom
-ALOE_PlayerNotepad
-GALV_RollCredits
-
-\c[18]Special Thanks
-Marcus Der for the amazing GitCompatabilityPatchPlugin
-Boris will never be forgotten
+<block: 240,-3,10,10,offbot,center,Mental_Wealth_Gang>
 
 </block>
 
@@ -62,5 +34,35 @@ Boris will never be forgotten
 </block>
 
 <block: 240,-3,10,5,offbot,center,player>
+
+</block>
+
+<block: -1,-2,10,10,offbot,center,blank_creds>
+
+CREDITS
+
+\c[16]Plugins
+YEP_CoreEngine
+GALV_VisibilityRange
+HIME _CommonEventButtons
+YEP_ChasePlayer
+YEP_SaveEventLocations
+YEP_MessageCore
+YEP_RegionRestrictions
+SRD_TimerUpgrade
+OrangeMoveCharacterTo
+SRD_CameraCore
+GALV_ActionIndicators
+Smart Path (MV)
+OrangeEventHitboxes
+Olivia_HorrorEffects
+InverseMove
+MBS_MapZoom
+ALOE_PlayerNotepad
+GALV_RollCredits
+
+\c[18]Special Thanks
+Marcus Der for the amazing GitCompatabilityPatchPlugin
+Boris will never be forgotten
 
 </block>
