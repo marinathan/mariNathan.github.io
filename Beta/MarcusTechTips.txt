@@ -1,4 +1,0 @@
-TechTips from Marcus
-
--force pull for disasters
--close RPG makers before anything other than a commit
