@@ -320,9 +320,9 @@ false
 "volume": 90
 }
 ],
-"startMapId": 12,
-"startX": 14,
-"startY": 23,
+"startMapId": 13,
+"startX": 10,
+"startY": 6,
 "switches": [
 "",
 "light_text",
