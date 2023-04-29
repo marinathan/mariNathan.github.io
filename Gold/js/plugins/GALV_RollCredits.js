@@ -214,77 +214,72 @@ Window_Credits.prototype.createVars = function() {
 };
 
 Window_Credits.prototype.update = function() {
-    Window_Base.prototype.update.call(this);
-    this.opacity = 0;
-    if (this._timer > 0) { // timer active
-        this.contentsOpacity += this._fadeIn;
-        this._timer -= 1;
-    } else { // timer ends
-        this.contentsOpacity -= this._fadeOut;
-        if (this.contentsOpacity <= 0) this._complete = true;
-    };
-    this.y += this._scroll;
-    if(this._timer === this._baseTimer - 60) {
-        this.refresh()  
-    }
+	Window_Base.prototype.update.call(this);
+	this.opacity = 0;
+	if (this._timer > 0) { // timer active
+		this.contentsOpacity += this._fadeIn;
+		this._timer -= 1;
+	} else { // timer ends
+		this.contentsOpacity -= this._fadeOut;
+		if (this.contentsOpacity <= 0) this._complete = true;
+	};
+	this.y += this._scroll;
 };
 
 Window_Credits.prototype.refresh = function() {
-    this._allTextHeight = 1;
-    // Draw all lines
-    for (var i = 1; i < this._textArray.length;i++) {
-        var textState = { index: 0 };
-        textState.text = this.convertEscapeCharacters(this._textArray[i]);
-        this.resetFontSettings();
-        this._allTextHeight += this.calcTextHeight(textState, false);
-    };
-    
-    // window height
-    this.height = this.contentsHeight() + this.standardPadding() * 2;
-    this.createContents();
-    
-    if (this._ypos.contains('offbot')) {
-        this.y = Graphics.height;
-    } else if (this._ypos.contains('offtop')) {
-        this.y = -height;
-    };
-    
-    // Set auto timer if -1 (auto)
-    if (this._timer < 0) {
-        if (this._scroll == 0) {
-            this._timer = 2 * this._allTextHeight; // set timer depending on amount of text
-        } else if (this._scroll < 0) {
-            // calc how many frames it will take for message to leave screen
-            var distance = Math.abs(this.y) + this.height;
-            this._timer = distance / Math.abs(this._scroll);
-        } else if (this._scroll > 0) {
-            // calc how many frames it will take for message to leave screen
-            //var distance = Math.abs(this.y);
-            //this._timer = distance / this._scroll;
-        };
-        this._baseTimer = this._timer
-        
-    };
-    
-    // Draw lines
-    var cy = 0;
-    for (var i = 1; i < this._textArray.length;i++) {
-        var textState = {index:0,text:this._textArray[i]};
-        var x = this.textPadding();
-        var w = this.testWidthEx(textState.text);
-        var h = this.cTextHeight;
+	this._allTextHeight = 1;
+	// Draw all lines
+	for (var i = 1; i < this._textArray.length;i++) {
+		var textState = { index: 0 };
+		textState.text = this.convertEscapeCharacters(this._textArray[i]);
+		this.resetFontSettings();
+		this._allTextHeight += this.calcTextHeight(textState, false);
+	};
+	
+	// window height
+	this.height = this.contentsHeight() + this.standardPadding() * 2;
+	this.createContents();
+	
+	if (this._ypos.contains('offbot')) {
+		this.y = Graphics.height;
+	} else if (this._ypos.contains('offtop')) {
+		this.y = -height;
+	};
+	
+	// Set auto timer if -1 (auto)
+	if (this._timer < 0) {
+		if (this._scroll == 0) {
+			this._timer = 2 * this._allTextHeight; // set timer depending on amount of text
+		} else if (this._scroll < 0) {
+			// calc how many frames it will take for message to leave screen
+			var distance = Math.abs(this.y) + this.height;
+			this._timer = distance / Math.abs(this._scroll);
+		} else if (this._scroll > 0) {
+			// calc how many frames it will take for message to leave screen
+			//var distance = Math.abs(this.y);
+			//this._timer = distance / this._scroll;
+		};
+	};
+	
+	// Draw lines
+	var cy = 0;
+	for (var i = 1; i < this._textArray.length;i++) {
+	    var textState = {index:0,text:this._textArray[i]};
+		var x = this.textPadding();
+		var w = this.testWidthEx(textState.text);
+		var h = this.cTextHeight;
 
-        if (this._align == 'center') {
-            x = this.contents.width / 2 - w / 2;
-        } else if (this._align == 'right') {
-            x = this.contents.width - this.textPadding() - w;
-        };
-        this.drawTextEx(textState.text, x, cy);
-        cy += h;
-    };
-    
-    this._allTextHeight = cy;
-    this.height = cy + this.standardPadding() * 2;
+		if (this._align == 'center') {
+			x = this.contents.width / 2 - w / 2;
+		} else if (this._align == 'right') {
+			x = this.contents.width - this.textPadding() - w;
+		};
+		this.drawTextEx(textState.text, x, cy);
+		cy += h;
+	};
+	
+	this._allTextHeight = cy;
+	this.height = cy + this.standardPadding() * 2;
 };
 
 Window_Credits.prototype.testWidthEx = function(text) {
