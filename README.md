@@ -1,11 +1,30 @@
 ![This is an image](https://cdn.discordapp.com/attachments/934209452872192040/955754571718860870/Mental_Wealth.png)
 
-# <marquee>Games by Nathan Bantug</marquee>
+# <marquee>Chronoboros</marquee>
 
-## Other games where Nathan Bantug contributed:
-- [ ] [Chronoboros](https://marinathan.github.io/Gold/index)
+## **Production Team:**
 
-- [ ] [Gaslight](https://marinathan.github.io/gaslightGold/index)
+|     Role      |     Name      |
+|     :---:     |     :---:     |
+| Exec Producer |   Marcus Der  |
+|  Programmer   | Nathan Bantug |
+|  Programmer   |  Noah Batiuk  |
+|  Programmer   | Hannah Zamora |
+|    Artist     |   Stacy Ma    |
+|    Audio      |  Abrar Zahin  |
+|    Writer     | Sofhia Sadiua |
 
-- [ ] [The Job](https://marinathan.github.io/TheJob/index)
+## To Do List:
+- [ ] [Game Gold Link](https://marinathan.github.io/Gold/index)
 
+- [ ] [Game Beta Link](https://marinathan.github.io/Beta/index)
+
+- [ ] [Game Beta Survey](https://forms.gle/DcRcu8hny6ZaGoTRA)
+
+## Game Instructions
+
+|    Controls   |          Key          |
+|     :---:     |         :---:         |
+|   Movement    |     WASD/Arrow Keys   |
+|   Interact    |      Enter, Space     |
+|  Time Travel  |           F           |
